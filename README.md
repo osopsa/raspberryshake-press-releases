@@ -2,7 +2,7 @@
 
 Hello from Raspberry Shake Team. Here you will find press content in several languages and high resolution photos that will help you create amazing articles or reviews about our product.
 
-[High-resolution photos](/raspberryshake-press-releases/highres-images).
+[High-resolution photos](highres-images).
 
 [![RaspiTag](http://raspberryshake.org/images/coming-soon-to-kickstarter.png)](http://raspberryshake.org)
 
